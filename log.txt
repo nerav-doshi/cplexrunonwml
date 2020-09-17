@@ -1,52 +1,52 @@
-[2020-07-22T08:22:51Z, INFO] CPLEX version 12100000
+[2020-09-17T09:17:04Z, INFO] CPLEX version 12100000
 
-[2020-07-22T08:22:51Z, WARNING] Changed parameter CPX_PARAM_THREADS from 0 to 1
+[2020-09-17T09:17:04Z, WARNING] Changed parameter CPX_PARAM_THREADS from 0 to 1
 
-[2020-07-22T08:22:51Z, INFO] Param[1,067] = 1
+[2020-09-17T09:17:04Z, INFO] Param[1,067] = 1
 
-[2020-07-22T08:22:51Z, INFO] Param[1,130] = UTF-8
+[2020-09-17T09:17:04Z, INFO] Param[1,130] = UTF-8
 
-[2020-07-22T08:22:51Z, INFO] Param[1,132] = -1
+[2020-09-17T09:17:04Z, INFO] Param[1,132] = -1
 
-[2020-07-22T08:22:51Z, INFO] Version identifier: 12.10.0.0 | 2020-01-09 | 0d94640
+[2020-09-17T09:17:04Z, INFO] Version identifier: 12.10.0.0 | 2020-01-09 | 0d94640
 
-[2020-07-22T08:22:51Z, INFO] CPXPARAM_Threads                                 1
+[2020-09-17T09:17:04Z, INFO] CPXPARAM_Threads                                 1
 
-[2020-07-22T08:22:51Z, INFO] CPXPARAM_Output_CloneLog                         -1
+[2020-09-17T09:17:04Z, INFO] CPXPARAM_Output_CloneLog                         -1
 
-[2020-07-22T08:22:51Z, INFO] CPXPARAM_Read_APIEncoding                        "UTF-8"
+[2020-09-17T09:17:04Z, INFO] CPXPARAM_Read_APIEncoding                        "UTF-8"
 
-[2020-07-22T08:22:51Z, INFO] Tried aggregator 1 time.
+[2020-09-17T09:17:04Z, INFO] Tried aggregator 1 time.
 
-[2020-07-22T08:22:51Z, INFO] LP Presolve eliminated 0 rows and 1 columns.
+[2020-09-17T09:17:04Z, INFO] LP Presolve eliminated 0 rows and 1 columns.
 
-[2020-07-22T08:22:51Z, INFO] Reduced LP has 7 rows, 15 columns, and 63 nonzeros.
+[2020-09-17T09:17:04Z, INFO] Reduced LP has 7 rows, 15 columns, and 63 nonzeros.
 
-[2020-07-22T08:22:51Z, INFO] Presolve time = 0.00 sec. (0.01 ticks)
+[2020-09-17T09:17:04Z, INFO] Presolve time = 0.00 sec. (0.01 ticks)
 
-[2020-07-22T08:22:51Z, INFO] Initializing dual steep norms . . .
+[2020-09-17T09:17:04Z, INFO] Initializing dual steep norms . . .
 
-[2020-07-22T08:22:51Z, INFO] 
+[2020-09-17T09:17:04Z, INFO] 
 
-[2020-07-22T08:22:51Z, INFO] Iteration log . . .
+[2020-09-17T09:17:04Z, INFO] Iteration log . . .
 
-[2020-07-22T08:22:51Z, INFO] Iteration:     1   Dual objective     =             1.860884
+[2020-09-17T09:17:04Z, INFO] Iteration:     1   Dual objective     =             1.860884
 
-[2020-07-22T08:22:51Z, INFO] There are no bound infeasibilities.
+[2020-09-17T09:17:04Z, INFO] There are no bound infeasibilities.
 
-[2020-07-22T08:22:51Z, INFO] There are no reduced-cost infeasibilities.
+[2020-09-17T09:17:04Z, INFO] There are no reduced-cost infeasibilities.
 
-[2020-07-22T08:22:51Z, INFO] Max. unscaled (scaled) Ax-b resid.          = 1.13687e-13 (4.44089e-16)
+[2020-09-17T09:17:04Z, INFO] Max. unscaled (scaled) Ax-b resid.          = 1.13687e-13 (4.44089e-16)
 
-[2020-07-22T08:22:51Z, INFO] Max. unscaled (scaled) c-B'pi resid.        = 1.17961e-16 (1.17961e-16)
+[2020-09-17T09:17:04Z, INFO] Max. unscaled (scaled) c-B'pi resid.        = 1.17961e-16 (1.17961e-16)
 
-[2020-07-22T08:22:51Z, INFO] Max. unscaled (scaled) |x|                  = 41481.6 (10.1273)
+[2020-09-17T09:17:04Z, INFO] Max. unscaled (scaled) |x|                  = 41481.6 (10.1273)
 
-[2020-07-22T08:22:51Z, INFO] Max. unscaled (scaled) |pi|                 = 0.0266733 (0.321274)
+[2020-09-17T09:17:04Z, INFO] Max. unscaled (scaled) |pi|                 = 0.0266733 (0.321274)
 
-[2020-07-22T08:22:51Z, INFO] Max. unscaled (scaled) |red-cost|           = 0.486119 (4.71716)
+[2020-09-17T09:17:04Z, INFO] Max. unscaled (scaled) |red-cost|           = 0.486119 (4.71716)
 
-[2020-07-22T08:22:51Z, INFO] Condition number of scaled basis            = 4.5e+00
+[2020-09-17T09:17:04Z, INFO] Condition number of scaled basis            = 4.5e+00
 
-[2020-07-22T08:22:51Z, INFO] optimal (1)
+[2020-09-17T09:17:04Z, INFO] optimal (1)
 
