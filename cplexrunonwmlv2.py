@@ -9,7 +9,7 @@ except ImportError:
 
 # THIS IS THE USER CREDENTIALS
 wml_credentials = {
-      "apikey": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+      "apikey": "jKKuPXaYb_Lz4Qd6jGDa8PBa4iwcvCOgPgHGjZ_3V29K",
       "url": "https://us-south.ml.cloud.ibm.com"
 }
 
@@ -60,8 +60,8 @@ def main(argv):
 
     if space_id == None:
         print("Creating space")
-        cos_resource_crn = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
-        instance_crn = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+        cos_resource_crn = 'crn:v1:bluemix:public:cloud-object-storage:global:a/7f92ce1185a3460579ce2c76a03b1a67:69cd8af5-5427-4efd-9010-7ad13ac3e18a::'
+        instance_crn = 'crn:v1:bluemix:public:pm-20:us-south:a/7f92ce1185a3460579ce2c76a03b1a67:82c6ef26-4fd2-40c4-95d3-abe3c3ad19fd::'
 
         metadata = {
             client.spaces.ConfigurationMetaNames.NAME: space_name,
